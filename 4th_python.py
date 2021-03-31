@@ -1,7 +1,7 @@
 import random
 
 total_students = 30
-total_teams= 6
+total_teams= 10
 
 students = range(30)
 
